@@ -17,14 +17,14 @@ The entire team (Missing Sanjay) in the pic with Aryan Agal who is the Contingen
 # Team Members
 
 Adarsh Kumar (Team Lead) </br>
-<a href="https://The-DarkMatter.github.io">Amogh Upadhyay</a></br>
-<a href="https://Liza23.github.io">Liza Dahiya</a></br>
-<a href="https://Nishchay1110.github.io">Nishchay</a></br>
+<a href="https://github.com/The-DarkMatter">Amogh Upadhyay</a></br>
+<a href="https://github.com/Liza23">Liza Dahiya</a></br>
+<a href="https://github.com/Nishchay1110">Nishchay</a></br>
 Sanjay Khatri (Team Lead)</br>
-<a href="https://Shashank3071.github.io">Shashank Gupta</a></br>
+<a href="https://github.com/Shashank3071">Shashank Gupta</a></br>
 Shashank Raut Desai</br>
 Shaurya Sindhu (Team Lead)</br>
 Vikram Aditya Sharma</br>
-<a href="https://yashwantnigdikar.github.io">Yashwant Nigdikar</a></br>
+<a href="https://github.com/yashwantnigdikar">Yashwant Nigdikar</a></br>
 
 The contingent won Silver Medal 🥈 in the Drishtee's Tech-Led Innovation For Rural Entrepreneurs challenge.
